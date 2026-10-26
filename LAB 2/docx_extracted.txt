@@ -1,0 +1,21 @@
+--- PRE-TABLE PARAGRAPHS ---
+Introduction to Data Science
+Data science is a multidisciplinary field that uses scientific methods, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+It combines statistics, computer science, and domain expertise to solve real world problems across industries such as healthcare, finance, and retail.
+Key Skills for Data Scientists
+A strong data scientist typically has skills in programming languages like Python and R, as well as a solid understanding of statistics and machine learning algorithms.
+Short note.
+
+Machine Learning Overview
+Machine learning is a subset of artificial intelligence that enables systems to learn patterns from data without being explicitly programmed for every scenario.
+Common types of machine learning include supervised learning, unsupervised learning, and reinforcement learning, each suited to different kinds of problems and available data.
+Sample Dataset Overview
+The table below summarizes a small sample dataset containing employee records, including their department, years of experience, and performance rating.
+
+--- TABLE DATA ---
+Name | Department | Experience (yrs) | Rating
+Ayesha Khan | Engineering | 5 | 4.5
+Bilal Ahmed | Marketing | 3 | 
+Sara Malik |  | 7 | 4.8
+Usman Tariq | Engineering |  | 3.9
+Hina Raza | Sales | 2 | 4.1
